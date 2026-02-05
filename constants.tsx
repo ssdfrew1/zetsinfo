@@ -38,7 +38,7 @@ export const SOCIALS: SocialLink[] = [
     label: 'YouTube',
     value: '@HiNTi.k',
     icon: '📺',
-    href: 'https://www.youtube.com/@HiNTi.k'
+    href: 'https://www.youtube.com/@ZetsCheats'
   },
   {
     label: 'Telegram',
