@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
         <p className="text-lg md:text-2xl text-neutral-400 mb-12 max-w-3xl mx-auto leading-relaxed font-medium">
           Твой билет в мир абсолютного доминирования. 
           <br className="hidden md:block" /> 
-          Самый актуальный софт от <span className="text-white font-black italic underline decoration-red-600 decoration-4">HinTik</span> специально для тебя.
+          Самый актуальный софт от <span className="text-white font-black italic underline decoration-red-600 decoration-4">Zets</span> специально для тебя.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
