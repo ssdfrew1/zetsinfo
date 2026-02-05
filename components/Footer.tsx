@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           </div>
           
           <p className="text-neutral-600 text-sm font-medium">
-            © {new Date().getFullYear()} ZETS / HinTik. All rights Reserved. Not affiliated with game developers.
+            © {new Date().getFullYear()} ZETS. All rights Reserved. Not affiliated with game developers.
           </p>
           
           <div className="flex space-x-6">
